@@ -4,12 +4,12 @@
 
 ## Table of contents 📚
 
-* [Introduction📝](#Introduction)
-* [Technologies](#Technologies)
-* [Data](#Data)
-* [Methods](#Methods)
-* [Key Findings](#Key-Findings) 
-* [Project Replication Instructions](#Project-Replication-Instructions)
+* [Introduction 📝](#Introduction)
+* [Technologies 💻](#Technologies)
+* [Data 📊](#Data)
+* [Methods 🛠️](#Methods)
+* [Key Findings 💡](#Key-Findings) 
+* [Project Replication Instructions 📌](#Project-Replication-Instructions)
 
 
 ## Introduction 📝
