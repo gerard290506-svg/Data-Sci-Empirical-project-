@@ -26,18 +26,18 @@ The project was driven by personal interest towards the Premier League as my mos
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
 * Required libraries:
-- pandas
-- numpy
-- matplotlib
-- statsmodels
-- seaborn
+** pandas
+** numpy
+** matplotlib
+** statsmodels
+** seaborn
 
 
 ## Data 📊
 
 The analysis uses:
-- Premier League Standings Data (points, wins, goals, etc.)
-- Team Salary Data (annual salary, squad size)
+* Premier League Standings Data (points, wins, goals, etc.)
+* Team Salary Data (annual salary, squad size)
 
 All datasets are stored within the 'Source Code.zip' folder found in the Git repository.
 
@@ -46,20 +46,20 @@ All datasets are stored within the 'Source Code.zip' folder found in the Git rep
 
 The following models are used:
 
-- Baseline OLS regression (log wages vs points scored)
-- Controlled regression (including squad size)
-- Nonlinear (quadratic) wage model
-- Residual analysis to identify overperforming and underperforming teams
+* Baseline OLS regression (log wages vs points scored)
+* Controlled regression (including squad size)
+* Nonlinear (quadratic) wage model
+* Residual analysis to identify overperforming and underperforming teams
 
 Additional models, such as interaction effects and wage per player, are included to test the robustness of the analysis.
 
 
 ## Key Findings 💡
 
-- Higher wages are typically associated with higher points scored
-- Squad size has little explanatory power for points scored
-- Limited evidence of diminishing returns to spending
-- Some teams significantly outperform their wage bill and vice versa
+* Higher wages are typically associated with higher points scored
+* Squad size has little explanatory power for points scored
+* Limited evidence of diminishing returns to spending
+* Some teams significantly outperform their wage bill and vice versa
 
 
 ## Project Replication Instructions 📌
