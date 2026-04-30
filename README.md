@@ -5,7 +5,8 @@
 * [Technologies](#Technologies)
 * [Data](#Data)
 * [Methods](#Methods)
-* [Key Findings](#Key-Findings)
+* [Key Findings](#Key-Findings) 
+* [Project Replication Instructions](#Project-Replication-Instructions)
 
 ## Introduction
 This project investigates whether higher wage expenditure leads to improved performance in the Premier League. By using regression analysis, the project explores the relationship between annual team wages and points scored, while testing alternative specifications and the model's robustness.
@@ -23,7 +24,7 @@ The analysis uses:
 - Premier League Standings Data (points, wins, goals, etc.)
 - Team Salary Data
 
-All datasets are stored within the `Source Code` ZIP folder found in the Git repository.
+All datasets are stored within the 'Source Code' ZIP folder found in the Git repository.
 
 ## Methods 
 The following models are used:
@@ -40,3 +41,19 @@ Additional models, such as interaction effects and wage per player, are included
 - Squad size has little explanatory power for points scored
 - Limited evidence of diminishing returns to spending
 - Some teams significantly outperform their wage bill and vice versa
+
+## Project Replication Instructions
+
+1. Clone this repository
+2. Unzip 'Source Code' from the Git repository
+3. Download 'standings.csv' and 'team_salary.csv' into a Jupyter Notebook folder
+4. Open 'Main Code.ipynb' in Jupyter Notebook in the same folder
+5. Run all cells
+
+Required libraries:
+- pandas
+- numpy
+- matplotlib
+- statsmodels
+- seaborn
+
