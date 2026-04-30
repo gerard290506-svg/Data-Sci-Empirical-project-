@@ -9,7 +9,7 @@ The project is created using:
 
 ## 📊 Data
 The analysis uses:
-- Premier League standings data (points, wins, goals, etc.)
-- Team Salary data
+- Premier League Standings Data (points, wins, goals, etc.)
+- Team Salary Data
 
 All datasets are stored within the `Source Code` ZIP folder found in the Git repository.
