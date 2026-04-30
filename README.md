@@ -25,12 +25,12 @@ The project was driven by personal interest towards the Premier League as my mos
 
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
-* Required libraries:
-** pandas
-** numpy
-** matplotlib
-** statsmodels
-** seaborn
+Required libraries:
+* pandas 2.2.2
+* numpy 1.26.4
+* matplotlib 3.9.2
+* statsmodels 0.14.2
+* seaborn 0.13.2
 
 
 ## Data 📊
