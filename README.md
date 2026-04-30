@@ -1,6 +1,6 @@
 # Do Higher Wages Lead to Better Performance in the Premier League?
 
-!(Premier_League_Logo)
+![alt text](Premier_League_Logo)
 
 ## Table of contents
 * [Introduction](#Introduction)
