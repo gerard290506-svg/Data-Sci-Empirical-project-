@@ -4,7 +4,7 @@
 
 ## Table of contents 📚
 
-* [Introduction](#Introduction)
+* [Introduction📝](#Introduction)
 * [Technologies](#Technologies)
 * [Data](#Data)
 * [Methods](#Methods)
