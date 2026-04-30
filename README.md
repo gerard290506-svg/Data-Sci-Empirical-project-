@@ -33,7 +33,7 @@ The analysis uses:
 - Premier League Standings Data (points, wins, goals, etc.)
 - Team Salary Data (annual salary, squad size)
 
-All datasets are stored within the 'Source Code' ZIP folder found in the Git repository.
+All datasets are stored within the 'Source Code.zip' folder found in the Git repository.
 
 
 ## Methods 🛠️
