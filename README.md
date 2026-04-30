@@ -8,6 +8,7 @@
 * [Key Findings](#Key-Findings) 
 * [Project Replication Instructions](#Project-Replication-Instructions)
 
+
 ## Introduction
 This project investigates whether higher wage expenditure leads to improved performance in the Premier League. By using regression analysis, the project explores the relationship between annual team wages and points scored, while testing alternative specifications and the model's robustness.
 
@@ -15,9 +16,11 @@ In professional football leagues, particularly the Premier League, it is assumed
 
 The project was driven by personal interest towards the Premier League as my most-watched football league, as well as its availability of data, which allows for an insightful exploration towards how economic factors translate into sporting success.  
 
+
 ## Technologies 
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
+
 
 ## Data
 The analysis uses:
@@ -25,6 +28,7 @@ The analysis uses:
 - Team Salary Data
 
 All datasets are stored within the 'Source Code' ZIP folder found in the Git repository.
+
 
 ## Methods 
 The following models are used:
@@ -36,11 +40,13 @@ The following models are used:
 
 Additional models, such as interaction effects and wage per player, are included to test the robustness of the analysis.
 
+
 ## Key Findings
 - Higher wages are typically associated with higher points scored
 - Squad size has little explanatory power for points scored
 - Limited evidence of diminishing returns to spending
 - Some teams significantly outperform their wage bill and vice versa
+
 
 ## Project Replication Instructions
 
