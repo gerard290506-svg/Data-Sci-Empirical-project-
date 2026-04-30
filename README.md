@@ -25,6 +25,7 @@ The project was driven by personal interest towards the Premier League as my mos
 
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
+
 Required libraries:
 * pandas 2.2.2
 * numpy 1.26.4
