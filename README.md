@@ -25,6 +25,12 @@ The project was driven by personal interest towards the Premier League as my mos
 
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
+* Required libraries:
+- pandas
+- numpy
+- matplotlib
+- statsmodels
+- seaborn
 
 
 ## Data 📊
@@ -64,10 +70,5 @@ Additional models, such as interaction effects and wage per player, are included
 4. Open 'Main Code.ipynb' in Jupyter Notebook in the same folder
 5. Run all cells
 
-Required libraries:
-- pandas
-- numpy
-- matplotlib
-- statsmodels
-- seaborn
+
 
