@@ -10,6 +10,10 @@
 ## Introduction
 This project investigates whether higher wage expenditure leads to improved performance in the Premier League. By using regression analysis, the project explores the relationship between annual team wages and points scored, while testing alternative specifications and the model's robustness.
 
+In professional football leagues, particularly the Premier League, it is assumed that big teams possessing greater financial power typically achieve better performances. However, it is not always clear how strong or consistent this relationship is. Therefore, this project aims to evaluate whether wage expenditure truly explains the differences in team performance and whether alternative measures, such as squad size or wage distribution, offer additional explanatory power.
+
+The project was driven by personal interest towards the Premier League as my most-watched football league, as well as its availability of data, which allows for an insightful exploration towards how economic factors translate into sporting success.  
+
 ## Technologies 
 The project is created using:
 * Python 3.12.7 (Jupyter Notebook)
