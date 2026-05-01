@@ -68,7 +68,7 @@ Additional models, such as interaction effects and wage per player, are included
 1. Clone this repository
 2. Unzip 'Source Code' from the Git repository
 3. Download 'standings.csv' and 'team_salary.csv' into a Jupyter Notebook folder
-4. Open 'Main Code.ipynb' in Jupyter Notebook in the same folder
+4. Open 'Main Code.ipynb' in Jupyter Notebook on the same folder
 5. Run all cells
 
 
